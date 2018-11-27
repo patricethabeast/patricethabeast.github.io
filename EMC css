@@ -1,0 +1,39 @@
+body{
+   
+}
+
+a {
+    color: chartreuse;
+}
+
+.navigation a {
+    display: inline-block;
+    height: 400px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.navigation a:hover {
+    background-color: darkgoldenrod;
+    color: aliceblue;
+}
+
+.navigation{
+    width: 400px;
+    height: 50px;
+    background-color: chartreuse;
+}
+
+p {
+    color: yellow;
+}
+
+.filler {
+    background-color: orange;
+    background-image: url(landscape.JPG)
+}
+
+footer {
+    
+}
