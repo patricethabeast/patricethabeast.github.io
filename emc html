@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Early Morning Club</title>
+        <link href=".earlycss.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+    <div class="navigation">
+        <a href="">Early Morning Club</a>
+        <a href="">The Surf Check</a>
+        <a href="">Bigger Picture</a>
+        <a href="">Current Projects</a>
+    </div>
+    <div class="main">
+        <img id="logo" src="">
+        <h2>Early Morning Club</h2>
+        <img id="lead" src="" alt="">
+    </div>
+    <div class="filler">
+        <p>Just a bunch of stuff to do with the standing sideways life,living next to the ocean or in the mountains. Having fun surfing, snowboarding, building, fixing upgragding, breaking, learning and trying to get better at it all and the stuff that gets in the way.</p>
+        <br>
+        <p>Updates on the forecasts and how the days turned out, what we got up to, info on all the latest projects and some good stuff to learn.</p>
+    </div>
+    <footer>
+        <p>Patricethabeast</p>
+        <p>Instagram symbol</p>
+    </footer>
+    </body>
+</html>
